@@ -1,0 +1,6 @@
+
+docker build -t="broad/genepattern:v0.1"
+
+docker build -t="broad/genepattern:v0.1" git@github.com/broadinstitute/genepattern"
+
+
